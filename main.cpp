@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "LocalArray.hpp"
+#include "DynamicArray.hpp"
 
 struct slistnode
 {

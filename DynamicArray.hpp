@@ -1,5 +1,5 @@
-#ifndef __LOCALARRAY_H__
-#define __LOCALARRAY_H__
+#ifndef __DYNAMICARRAY_H__
+#define __DYNAMICARRAY_H__
 
 #include <stddef.h>
 #include <iostream>
@@ -117,4 +117,4 @@ class DynamicArray
  *A fixed array that supports add, delete, and change operations
 */
 
-#endif//__LOCALARRAY_H__
+#endif//__DYNAMICARRAY_H__
